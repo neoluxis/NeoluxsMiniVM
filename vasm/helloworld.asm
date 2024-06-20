@@ -1,0 +1,28 @@
+MOV 0 72  ; H
+OUT 0
+MOV 0 101 ; e
+OUT 0
+MOV 0 108 ; l
+OUT 0
+OUT 0     ; l
+MOV 0 111 ; o
+OUT 0
+MOV 0 44  ; ,
+OUT 0
+MOV 0 32  ; (space)
+OUT 0
+MOV 0 87  ; W
+OUT 0
+MOV 0 111 ; o
+OUT 0
+MOV 0 114 ; r
+OUT 0
+MOV 0 108 ; l
+OUT 0
+MOV 0 100 ; d
+OUT 0
+MOV 0 33  ; !
+OUT 0
+MOV 0 10 ; \n
+OUT 0
+HLT
