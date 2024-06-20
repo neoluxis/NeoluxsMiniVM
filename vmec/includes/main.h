@@ -7,11 +7,15 @@
 #include <stdbool.h>
 #include <stdint.h>
 
+#include "vconf.h"
+
 typedef enum
 {
     RC_SUCCESS = 0,
 
     RC_VM_INIT_ERR = 0x01,
+
+
 
 } RC;
 

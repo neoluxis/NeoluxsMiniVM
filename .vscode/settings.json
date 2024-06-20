@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "vm.h": "c",
-        "vm_config.h": "c"
+        "vm_config.h": "c",
+        "string.h": "c"
     }
 }
